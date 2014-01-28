@@ -1,0 +1,10 @@
+/*
+function doClick(e) {
+    alert($.label.text);
+}
+*/
+var book = Alloy.createModel('books', { 
+   title : 'Great Expectations', 
+   author: 'Charles Dickens' 
+});
+$.index.open();

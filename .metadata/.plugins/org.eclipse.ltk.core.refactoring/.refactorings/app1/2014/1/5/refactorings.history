@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;app1/app/models/boolean.js&apos; to &apos;tasks.js&apos;" description="Rename resource &apos;boolean.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="app/models/boolean.js" name="tasks.js" stamp="1390919558008" updateReferences="true"/>
+</session>

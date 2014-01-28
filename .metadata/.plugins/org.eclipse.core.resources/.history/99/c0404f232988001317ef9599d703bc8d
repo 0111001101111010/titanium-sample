@@ -1,0 +1,9 @@
+<Alloy>
+    <Collection src="tasks"/>
+    <Window class="container">
+        <!-- Asssign the collection to the TableView -->
+        <TableView dataCollection="tasks">
+            <TableViewRow></TableViewRow>
+        </TableView>
+    </Window>
+</Alloy>

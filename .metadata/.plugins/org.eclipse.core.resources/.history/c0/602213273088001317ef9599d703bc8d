@@ -1,0 +1,23 @@
+/*
+function doClick(e) {
+    alert($.label.text);
+}
+*/
+var myBooks = Alloy.Collections.books;
+var book = Alloy.createModel('books', { 
+   title : 'Great Expectations', 
+   author: 'Charles Dickens' 
+});
+myBooks.add(book); 
+book.save();
+
+function showBook(event,err){
+    var selectedBook = event.source;
+    var args = {
+        title: selectedBook.title,
+        author: selectedBook.author
+    };
+};
+
+
+$.index.open();

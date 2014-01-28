@@ -1,0 +1,8 @@
+<Alloy> 
+   <Window class="container"> 
+   	<view>
+      <Label id="titleLabel"></Label>
+      <Label id="authorLabel"></Label> 
+    </view>
+   </Window> 
+</Alloy>

@@ -1,0 +1,9 @@
+<Alloy>
+    <Collection src="books"/>
+    <Window class="container">
+        <TableView dataCollection="books">
+            <TableViewRow title="{title}" onClick="showBook"></TableViewRow>
+    		<TableViewRow author="{author}"></TableViewRow>
+        </TableView>
+    </Window>
+</Alloy>   

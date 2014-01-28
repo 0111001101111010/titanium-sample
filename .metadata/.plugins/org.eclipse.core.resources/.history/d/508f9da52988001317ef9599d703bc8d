@@ -1,0 +1,14 @@
+function doClick(e) {
+    alert($.label.text);
+}
+
+$.index.open();
+
+var myBooks = Alloy.Collections.books;
+var book = Alloy.createModel('books', { 
+   id : '1', 
+   name: 'Homework',
+   complete: 'false'
+});
+myBooks.add(book); 
+book.save();
