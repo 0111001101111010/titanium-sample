@@ -1,0 +1,21 @@
+/*
+ * loading ad Screen
+ * 
+ * 
+ * 
+ */
+var alloy = require('co.lanica.platino');
+
+function ad(window, game) {
+
+    var debug = true;
+
+    var updateTimerID = 0;
+
+    // Create scene
+    var self = alloy.createScene();
+    
+    return self;
+}
+
+module.exports = MainScene;

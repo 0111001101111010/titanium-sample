@@ -1,0 +1,37 @@
+/*
+ * loading ad Screen
+ * 
+ * 
+ * 
+ */
+var alloy = require('co.lanica.platino');
+
+function ad(window, game) {
+
+    var debug = true;
+
+    var updateTimerID = 0;
+
+    // Create scene
+    var self = alloy.createScene();
+
+	Ti.UI.backgroundColor = 'white';
+	var win = Ti.UI.createWindow();
+	var image = Ti.UI.createImageView({
+	 image:'http://lanica.co/wp-content/uploads/2013/09/Github-Octocat.png'
+	});
+	win.add(image);
+	win.open();    
+/*
+
+var image = Ti.UI.createImageView({
+	 image:'/graphics/mainloading.png'	
+});
+window.add(image;)
+*/
+
+
+    return self;
+}
+
+module.exports = ad;

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;EggySplat/Resources/ad_transition.js&apos; to &apos;ad.js&apos;" description="Rename resource &apos;ad_transition.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Resources/ad_transition.js" name="ad.js" stamp="1391720548104" updateReferences="true"/>
+</session>

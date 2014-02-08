@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "universal",
+	"iosSdkPath": "/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "fd51fb60a714483d5f3090bb6038725d",
+	"modulesNativeHash": "83215051d24213513d3162865671d39d",
+	"gitHash": "d9182d6",
+	"name": "PlatformerDemo",
+	"id": "co.lanica.platino.demos.pirateship",
+	"analytics": true,
+	"publisher": "Lanica, Inc.",
+	"url": "http://lanica.co",
+	"version": "1.0",
+	"description": "Lanica PLATINO Chipmunk2d physics platformer demo.",
+	"copyright": "2013 by Lanica, Inc.",
+	"guid": "12ded9eb-146e-4933-8066-10a0593bf16e",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false,
+	"encryptJS": false
+}

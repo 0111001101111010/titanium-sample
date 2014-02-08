@@ -1,0 +1,38 @@
+Logger started at: Thursday, February 6, 2014 10:26:05 AM EST
+Component: com.appcelerator.titanium.ios.core
+Version: 1.0.0.1387331057
+[26:5.121] Sent: >21*1391700365068*version<
+[26:5.123] Recv: >1391700365068*2*3.2.0.GA<
+[26:5.125] Sent: >20*1391700365069*update<
+[26:5.125] Recv: >1391700365069*3.2.0.GA<
+[26:5.126] Sent: >36*1391700365070*option*monitorXHR*true<
+[26:5.127] Recv: >1391700365070<
+[26:5.127] Sent: >45*1391700365071*option*suspendOnFirstLine*false<
+[26:5.128] Recv: >1391700365071<
+[26:5.128] Sent: >46*1391700365072*option*suspendOnExceptions*false<
+[26:5.129] Recv: >1391700365072<
+[26:5.129] Sent: >41*1391700365073*option*suspendOnErrors*true<
+[26:5.129] Recv: >1391700365073<
+[26:5.129] Sent: >43*1391700365074*option*suspendOnKeywords*true<
+[26:5.130] Recv: >1391700365074<
+[26:5.130] Sent: >45*1391700365075*option*bypassConstructors*false<
+[26:5.131] Recv: >1391700365075<
+[26:5.131] Sent: >45*1391700365076*option*stepFiltersEnabled*false<
+[26:5.131] Recv: >1391700365076<
+[26:5.132] Sent: >30*1391700365077*detailFormatters<
+[26:5.132] Recv: >1391700365077<
+[26:5.133] Sent: >20*1391700365078*enable<
+[26:5.134] Recv: >1391700365078<
+[26:5.139] Recv: >threads*created*0*kroll$1<
+[26:5.142] Recv: >log*out*[DEBUG] Analytics is enabled = YES<
+[26:5.144] Recv: >log*out*[DEBUG] Loading: /Users/stanzheng/Library/Application Support/iPhone Simulator/7.0.3-64/Applications/94DB4ADD-AB38-435B-9158-185E2B83A8E3/dominion.app/app.js, Resource: app_js<
+[26:5.144] Recv: >scripts*created*297155264|app:/app.js||1|4<
+[26:5.145] Recv: >resumed*0*started<
+[26:5.145] Recv: >log*out*[DEBUG] Loading: /Users/stanzheng/Library/Application Support/iPhone Simulator/7.0.3-64/Applications/94DB4ADD-AB38-435B-9158-185E2B83A8E3/dominion.app/ApplicationWindow.js, Resource: ApplicationWindow_js<
+[26:5.146] Recv: >scripts*created*297155104|app:/ApplicationWindow.js||1|165<
+[26:5.268] Recv: >log*out*[DEBUG] Application booted in 288.165987 ms<
+[26:5.434] Recv: >log*out*[DEBUG] Loading: /Users/stanzheng/Library/Application Support/iPhone Simulator/7.0.3-64/Applications/94DB4ADD-AB38-435B-9158-185E2B83A8E3/dominion.app/_app_props_.json, Resource: _app_props__json<
+[26:5.438] Recv: >log*out*[DEBUG] Loading: /Users/stanzheng/Library/Application Support/iPhone Simulator/7.0.3-64/Applications/94DB4ADD-AB38-435B-9158-185E2B83A8E3/dominion.app/HomeScene.js, Resource: HomeScene_js<
+[26:5.439] Recv: >scripts*created*297156096|app:/HomeScene.js||1|61<
+[26:5.506] Recv: >log*out*[INFO] HomeScene has been activated.<
+----------End of file----------
